@@ -6,6 +6,7 @@ Roadmap
 
 - Simplified operation
 - Streamlined installation
+- Common workflow language integration
 - Improved documentation
 - Parallelised computation for some steps
 - nexus and phylip support for :code:`metal_compare` 
