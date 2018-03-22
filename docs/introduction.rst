@@ -11,6 +11,16 @@ While the procedures within each stage of a selective pressure analysis are inde
 Lastly, VESPA was designed to increase user productivity by automating labor intensive or highly repetitive tasks: *i)* automation by recursion – used to repeat an analysis on a number of files  (e.g. cleaning and translating a directory of genomes), and *ii)* automation of analysis methods – used to complete tasks that are normally demanding but invariable in execution (e.g. identifying homologs within BLAST output data). Automating these procedures within VESPA has created an analysis package that is highly scalable (*i.e.* from single gene to whole genome analyses) and that flexible enough to be useful for many levels of expertise and many alternative purposes/endpoints.
 
 
+Tutorial videos
+===============
+
+- :download:`Phase 1 tutorial video <video/phase1.mp4>`
+- :download:`Phase 2 tutorial video <video/phase2.mp4>`
+- :download:`Phase 3 tutorial video <video/phase3.mp4>`
+- :download:`Phase 4 tutorial video <video/phase4.mp4>`
+- :download:`Phase 5 tutorial video <video/phase5.mp4>`
+
+
 Phase and pipeline structure
 ============================
 
